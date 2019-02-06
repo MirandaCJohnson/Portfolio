@@ -9,9 +9,7 @@
 		<li>Code Wars</li>
 		<li>Free Code Camp</li>
 		<li>Udemy</li>
-		<l1>Coursera</l1>
-		<li>Glich Doctor - Portfolio Website</li>
-		<li>Watson</li>
+		<li>Coursera</li>
 		<li>Juypter Notebooks</li>
 	</ul>
   </body>
