@@ -5,7 +5,6 @@
     <ul>
 		<li><a href="http://glitchdoctor.net">Portfolio Website</a></li>
 		<li>Watson</li>
-		<li></li>
 	</ul>
 		
 	<ul>
