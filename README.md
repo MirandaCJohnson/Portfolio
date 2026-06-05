@@ -9,7 +9,6 @@
 		<li>Free Code Camp</li>
 		<li>Udemy</li>
 		<li>Coursera</li>
-		
 	</ul>
   </body>
 </html>
